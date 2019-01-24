@@ -1,1 +1,3 @@
 oplossingen 
+
+select stdFirstName, stdLastName, stdGPA, stdCity from student where stdGPA >= 3.7;
